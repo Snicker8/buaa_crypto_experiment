@@ -60,4 +60,4 @@ Followings are directions of some special files.
 - Thanks to the guidance from teachers and assistants in *Mathematical Fundamentals of Information Security*.
 - Thanks to the guidance from teachers and assistants in *Cryptography* and *Cryptography Experiments*.
 - Thanks to the sharings from [Zheng Yaowei](https://github.com/hiyouga/cryptography-experiment), [Fu Yunhao](https://github.com/FYHSSGSS/BUAA-CryptoLab), [Huang Xiang](https://github.com/xiangsam/Cryptography_Experiment).
-- Thanks to the help of Cui Shibo.
+- Thanks to the help of [Cui Shibo](https://github.com/JadeiteMind).
