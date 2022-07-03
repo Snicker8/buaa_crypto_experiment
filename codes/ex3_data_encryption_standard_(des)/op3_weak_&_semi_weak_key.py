@@ -1,0 +1,20 @@
+print('''0x0101010101010101
+0x0000000000000000
+0x1f1f1f1f0e0e0e0e
+0x1e1e1e1e0f0f0f0f
+0xe0e0e0e0f1f1f1f1
+0xe1e1e1e1f0f0f0f0
+0xfefefefefefefefe
+0xffffffffffffffff
+0x1f011f010e010e01 0x011f011f010e010e
+0x1e001e000f000f00 0x001e001e000f000f
+0xe001e001f101f101 0x01e001e001f101f1
+0xe100e100f000f000 0x00e100e100f000f0
+0xfee0fee0fef1fef1 0xe0fee0fef1fef1fe
+0xffe1ffe1fff0fff0 0xe1ffe1fff0fff0ff
+0xfe1ffe1ffe0efe0e 0x1ffe1ffe0efe0efe
+0xff1eff1eff0fff0f 0x1eff1eff0fff0fff
+0xfe01fe01fe01fe01 0x01fe01fe01fe01fe
+0xff00ff00ff00ff00 0x00ff00ff00ff00ff
+0xe01fe01ff10ef10e 0x1fe01fe00ef10ef1
+0xe11ee11ef00ff00f 0x1ee11ee10ff00ff0''')
