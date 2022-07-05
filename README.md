@@ -52,7 +52,7 @@ Followings are directions of some special files.
 ## Reports
 
 - Reports for each experiment.
-- Composed by Microsoft Office (Word & PowerPoint, with AxMath plugin).
+- Composed by Microsoft Office (Word & PowerPoint, with [AxMath](https://www.amyxun.com/) plugin).
 - Simplified Chinese only.
 
 ## Thanks
